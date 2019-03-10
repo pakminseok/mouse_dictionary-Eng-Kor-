@@ -7,3 +7,5 @@ August 2016 – August 2016
 • Web crawling through Naver-endic. 
 
 • Using Python, Pytesseract, PyQt4 
+
+https://www.youtube.com/watch?v=mGpiOKU_oWQ
